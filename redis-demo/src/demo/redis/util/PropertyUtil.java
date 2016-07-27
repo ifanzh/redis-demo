@@ -10,7 +10,7 @@ import java.util.Properties;
 import demo.redis.common.Constant;
 
 /**
- * 对配置文件Properties的读取、写入与更新操作 
+ * 对 .properties 文件的读取操作
  * 
  * @author zhangfan
  *
